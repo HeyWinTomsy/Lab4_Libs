@@ -3,5 +3,3 @@ project(Lab4_Libs LANGUAGES CXX)
 
 add_subdirectory(MathUtils)
 add_subdirectory(App)
-
-
